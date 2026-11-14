@@ -1,0 +1,26 @@
+{
+  "id": "f001",
+  "title": "Notes at the Shrine",
+  "scenes": [
+    {
+      "n": 1,
+      "card": "Eight voices",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/a413c58d-a03b-45fd-a8f9-2347bd5e373c.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmQ3ODJhZWMzMzg1NjhiZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDcyNzUzMn0.Bc4Y4ykzvisXLZ1eRemy8GCzvn7Gosd0Xur3Ov-BBmM"
+    },
+    {
+      "n": 2,
+      "card": "",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/432fe9d7-8e36-41d1-aed0-06a412c11662.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYWE2MDU1MjBhOGJlZmY2ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc2OTU2OH0.eShZD1eSaybyodrpq7D7hibKJvJ3A4G81Lz41OZi8TE"
+    },
+    {
+      "n": 3,
+      "card": "listen",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/54e06e88-f2f8-4b75-9dfb-77050c4903a9.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjM2ZTZjNTMyZmQ2NTlkMyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc1OTM3OX0.T4JLAVm20153JDcK0IONyvKvXZZXZx55a9TP92f048c"
+    },
+    {
+      "n": 4,
+      "card": "",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/6cda9342-ff89-484a-9e1a-d5f1a18290c2.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjFlM2IwNTZkY2M4MTA5MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc2MTA0Nn0.TSeUB6NF7coHlqJcKkkCfNNT1pfQaCXiQ1jFhx8neVE"
+    }
+  ]
+}

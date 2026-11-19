@@ -1,0 +1,31 @@
+{
+  "id": "f003",
+  "title": "Cat on the Platform",
+  "scenes": [
+    {
+      "n": 1,
+      "card": "The cat watches a train approach, its headlights cutting a thin line across the wet track.",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/ecff5b15-818d-4f87-983f-9680b9b7dcd8.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiN2YyZGIyMmQ2MTliZmVhYSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTI3MjM2NX0.q1SE3pxEqICp23-T0mXTiXY37g1cr70FZoJAF7Whyjg"
+    },
+    {
+      "n": 2,
+      "card": "The cat leaps off the rail, tail twitching, and follows the train into the carriage.",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/e5cf12a4-475b-4945-89d3-dc56664dc065.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDhkOTk5Yjk1MDY1NGFmOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTIyNzMyMX0.IzyJKYnhs9O3RYzWg_2A27AXWwV2facSL7Jkn4O9zI4"
+    },
+    {
+      "n": 3,
+      "card": "",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/aff801f1-4c85-4759-b292-b24ae7143cd1.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZmE5ZTkwNzFlYTc1NDQzZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTI1ODg2NX0.zDCc_eaDebpD52mdn5TMPK9XJFL7_KFUVv0n4XkK6Z4"
+    },
+    {
+      "n": 4,
+      "card": "",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/d8d2e45d-9d10-4537-b816-7e007db845ca.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMDA1NjZmYzI5ZjA5YTQ5NyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTI2NzkwNn0.YtQI0tgFws5oMuFlL4luF1t_Vafx7-HTElQ0VFhoGDw"
+    },
+    {
+      "n": 5,
+      "card": "",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/acf34dec-c93b-4356-846f-27aaa6a7043a.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDY1NjAyODQ0OTQ3ZWJkMiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTIwOTg2MH0.Ny9lIhjRvaFhrWaU0kHWienxOdwjKhiIt_W5i2n0dG8"
+    }
+  ]
+}

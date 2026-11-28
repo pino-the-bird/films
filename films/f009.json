@@ -1,0 +1,26 @@
+{
+  "id": "f009",
+  "title": "Ticket Echoes",
+  "scenes": [
+    {
+      "n": 1,
+      "card": "the hand trembles, ink flows, the ticket flutters into the air",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/6fdf1df1-a177-4e59-b975-bcb6f0cd8ca1.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjBiZDg4ODc1NDFjMWI4NSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NjAwOTA5NX0.0_CYib_N_xd9zbn9Wzr330h-Wn6kzmMPOZbsZlq6e-w"
+    },
+    {
+      "n": 2,
+      "card": "",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/a303e360-6714-4e58-a6f5-7c3181ecfea3.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTBhZDAyZGMwYjRmOTUxZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NjAwOTgyMH0.bpJT94kBnVmaua3I1dGPKI7K-0JEvVS7cl0CSRrvwEs"
+    },
+    {
+      "n": 3,
+      "card": "",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/5d181d9d-af18-4771-b09c-a31f4ecf2dcd.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTJlMTMxMmJiY2Y1YTI4NCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NjAwNDc3OX0.U9qY7mZVVjM_n44Kz9Tw4axTYtz-pdweGiwrsLxRwfE"
+    },
+    {
+      "n": 4,
+      "card": "",
+      "clip": "https://dnznrvs05pmza.cloudfront.net/782cdf73-ba90-4bac-a23e-a5214600c1e0.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiN2E5YmFmMzIyZDgwZDQ5NSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NjAwODg4Mn0.VOw3PhWwU2ZBaKEj_Nwm3Bq6Mgwl96ghQDbNmHofrVA"
+    }
+  ]
+}
